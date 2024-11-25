@@ -20,10 +20,12 @@ This assumption gives us a reason to assume that coffee is still popular.
 #### Finding out Coffee Shops of which categories are in demand in different States
 ![image](https://github.com/user-attachments/assets/5cbf7b3e-4a1b-4641-84ad-b13c9e928379)
 * Coffee&Tea shops turned out to be the most popular
-![image](https://github.com/user-attachments/assets/81c98886-5f41-4377-8f56-fecc546efc3a)
+![image](https://github.com/user-attachments/assets/a8fd1e2f-d502-4586-9607-b254a2b5ba32)
+* Massachusets obviousely like Donuts)
+
 
 #### The coverage of different features of Shops in different States
 ![image](https://github.com/user-attachments/assets/da53c9e0-1f2d-4c2e-a0df-09a6fbb7a9ad)
 * The chart shows variation of features coverage among States from min to max for each attribute.
   ![image](https://github.com/user-attachments/assets/7303ab24-2365-4388-bf85-77fcfb4572d8)
-* The visual for selected attribute - Texas covers 'DogAllowed' feature the most amongst available states. 
+* The visual for selected attribute - Texas covers 'DogAllowed' feature the most amongst available states.
